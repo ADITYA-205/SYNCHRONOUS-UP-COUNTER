@@ -1,5 +1,6 @@
 # SYNCHRONOUS-UP-COUNTER
-
+## NAME: S ADITYA
+## REG NO: 212223040007
 # AIM:
 
 To implement 4 bit synchronous up counter and validate functionality.
